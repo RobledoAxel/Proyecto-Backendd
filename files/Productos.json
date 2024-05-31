@@ -1,0 +1,11 @@
+[
+	{
+		"title": "secador",
+		"description": "potencia alta",
+		"code": 2233,
+		"price": 33,
+		"stock": 4,
+		"status": true,
+		"id": 1
+	}
+]
